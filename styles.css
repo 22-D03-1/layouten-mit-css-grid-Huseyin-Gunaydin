@@ -34,6 +34,7 @@ img{
 .container div:nth-child(5) {
 font-size: 1rem;
 padding: 10px;
+color: rgb(155, 154, 154);
 }
 
 .container div:nth-child(6){
